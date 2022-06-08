@@ -1,0 +1,14 @@
+Model\MatchSearchesInDatabase.class
+ProjectMain\App.class
+Views\Home.class
+Navigation\DashboardController.class
+DataAccessLayer\SearchDatabaseConnection.class
+ProjectMain\SystemInfo.class
+Views\Login.class
+Views\Search.class
+module-info.class
+Model\MatchLoginInDatabase.class
+Views\SearchResults.class
+Views\ViewsProvider.class
+Navigation\Nav.class
+Views\SignUp.class
